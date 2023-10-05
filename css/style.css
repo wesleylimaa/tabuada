@@ -7,7 +7,9 @@
 body {
    text-align: center;
    min-height: 100vh;
-   background: linear-gradient(180deg, #03126b, #48228d 95%);
+   background-image:url('../css/bac.jpeg');
+   background-repeat: unset;
+   /*background: linear-gradient(180deg, #03126b, #48228d 95%);*/
    color: #fff;
    margin: 1rem;
    overflow: hidden;
